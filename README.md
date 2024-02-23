@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @freejool
-- 👀 I’m interested in slacking
-- 🌱 I’m currently learning to not to fail in final exams
-- 💞️ I’m looking to collaborate on anything interesting
-- 📫 Reach me by looking for the same avatar over the Internet
+- 👋 Hi, I’m @SuperSpecialSweet
+- 🇨🇳 I'm from People's Republic of China
+- 👀 I’m currently interested in Rust
+- 🌱 I’m trying to contribute to open source projects
+- 📫 Reach me by sxy1066740232@gmail.com
 
 <!---
 freejool/freejool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
